@@ -19,6 +19,23 @@ Production-style AWS infrastructure provisioned 100% via modular Terraform. No m
 - RDS endpoint active on port 5432
 - VPC ID: vpc-0aecf86aa90914826
 
+## Screenshots
+
+### EKS Cluster
+![EKS Cluster](screenshots/screenshot9.png)
+
+### VPC
+![VPC](screenshots/screenshot10.png)
+
+### RDS Instance
+![RDS](screenshots/screenshot11.png)
+
+### Terraform Output
+![Terraform Output](screenshots/screenshot13.png)
+
+### kubectl Nodes
+![Nodes Ready](screenshots/screenshot12.png)
+
 ## Tech Stack
 Terraform | AWS EKS | AWS RDS | AWS VPC | IAM | S3 | Kubernetes
 
